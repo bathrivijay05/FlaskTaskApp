@@ -1,4 +1,4 @@
-# Flask Todo Application
+# Simple Flask Todo Application
 
 A simple Flask-based web application to manage a to-do list with functionalities to add, update, and delete tasks.
 
