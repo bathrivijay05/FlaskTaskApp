@@ -15,4 +15,4 @@ A simple Flask-based web application to manage a to-do list with functionalities
 
 ## Demo Image
 
-![Flask Todo App](https://github.com/bathrivijay05/simple-pizza-billing-using-tkinter/blob/main/screenshot.jpg?raw=true)
+![Flask Todo App](https://github.com/bathrivijay05/FlaskTodoApp/blob/main/screenshot.png?raw=true)
