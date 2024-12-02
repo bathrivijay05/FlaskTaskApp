@@ -1,0 +1,53 @@
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    max-width: max-content;
+    margin: 0 auto;
+    text-align: center;
+}
+
+table {
+    width: 500px;
+    border-collapse: collapse;
+}
+
+th,
+td {
+    border: 1px solid black;
+}
+
+form {
+    width: 500px;
+    margin: 40px auto;
+}
+
+input,textarea {
+    width: 100%;
+    max-width: 95%;
+    resize: none;
+}
+
+textarea {
+    border: 1px solid black;
+    padding: 10px;
+    margin: 20px auto;
+    font-size: 17px;
+    height: 100px;
+}
+
+input[type="submit"] {
+    padding: 5px;
+    background: #7ce97c;
+    border: 1px solid black;
+    cursor: pointer;
+}
+
+.delete, .delete:hover, .delete:active, .delete:visited {
+    color: red;
+}
+
+.update, .update:hover, .update:active, .update:visited {
+    color: orangered;
+}
